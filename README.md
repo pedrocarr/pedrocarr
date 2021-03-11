@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hello World!  :love_you_gesture: </h2>
+<h2 align="center"> YES, I LOVE CODING  💻 </h2>
 <h4 align="center"> I'm Pedro Carvalho and I'm a software engineer. I'm from Brazil, living in Belo Horizonte </h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -9,7 +9,7 @@
 - 💼 &nbsp; Improving my skills everyday.
 - 🌱 &nbsp; Learning more about Full Stack Web Development.
 - ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
-- **Hobbies :** Books :books: | Music :headphones
+- **Hobbies :** Books 📚 | Music 🎧 | Basketball 🏀 | Craft Beers 🍺 | Soccer ⚽ | Running 🏃
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> 
