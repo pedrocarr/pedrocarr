@@ -1,6 +1,6 @@
 
 <h2 align="center"> YES, I LOVE CODING  💻 </h2>
-<h4 align="center"> I'm Pedro Carvalho and I'm a software engineer. I'm from Brazil, living in Belo Horizonte </h4>
+<h4 align="center"> I'm Pedro Carvalho and I'm a software engineer. I'm from Brazil, living in Itaúna, Minas Gerais </h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
