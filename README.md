@@ -55,6 +55,7 @@
 
 <code>![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&logoColor=yellow)</code> &nbsp;&nbsp;
 <code>![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=ruby&logoColor=red)</code> &nbsp;&nbsp;
+<code>![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript&logoColor=blue)</code> &nbsp;&nbsp;
 
 
 ### Database
