@@ -5,6 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Postgraduate Software Engineer at Pontifícia Universidade Católica de Minas Gerais.
 - 🎓 &nbsp; Environmental Engineer at Universidade Federal de Ouro Preto.
 - 💼 &nbsp; Improving my skills everyday.
 - 🌱 &nbsp; Learning more about Back End Development.
