@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Environmental Engineer at Universidade Federal de Ouro Preto.
 - 💼 &nbsp; Improving my skills everyday.
-- 🌱 &nbsp; Learning more about Full Stack Web Development.
+- 🌱 &nbsp; Learning more about Back End Development.
 - ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
 - **Hobbies :** Books 📚 | Music 🎧 | Basketball 🏀 | Craft Beers 🍺 | Soccer ⚽ | Running 🏃
 
@@ -50,6 +50,8 @@
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
 <code>![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Angular](https://img.shields.io/badge/-Angular-CC0000?style=flat-square&logo=angular&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Nest JS](https://img.shields.io/badge/-Nest-CC0000?style=flat-square&logo=nest&logoColor=white)</code> &nbsp;&nbsp;
+
 
 # Languages
 
