@@ -50,7 +50,7 @@
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
 <code>![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Angular](https://img.shields.io/badge/-Angular-CC0000?style=flat-square&logo=angular&logoColor=white)</code> &nbsp;&nbsp;
-<code>![Nest JS](https://img.shields.io/badge/-Nest-CC0000?style=flat-square&logo=nest&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Nest JS](https://img.shields.io/badge/-Nest-CC0000?style=flat-square&logo=nestjs&logoColor=white)</code> &nbsp;&nbsp;
 
 
 # Languages
