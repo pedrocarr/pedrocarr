@@ -66,6 +66,8 @@
 <code>![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)</code> &nbsp;&nbsp;
 <code>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)</code> &nbsp;&nbsp;
 <code>![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)</code> &nbsp;&nbsp;
+<code>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</code> &nbsp;&nbsp;
+
 
 ### Deploy
 
@@ -77,6 +79,8 @@
 ### Editors
 
 <code>![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</code> &nbsp;&nbsp;
+<code>![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)</code> &nbsp;&nbsp;
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
